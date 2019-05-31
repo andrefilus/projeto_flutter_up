@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778584959708",
+    "firebase_url": "https://aula2-flutter.firebaseio.com",
+    "project_id": "aula2-flutter",
+    "storage_bucket": "aula2-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778584959708:android:b5ad3f52281b6ad1",
+        "android_client_info": {
+          "package_name": "br.com.andrefilus.aula2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778584959708-73oha4nikec1896meu1h1t0105lvck64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQQDLWiwZO6EhvDmlQx0nhKzXAHOf2_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778584959708-73oha4nikec1896meu1h1t0105lvck64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778584959708-h9l8ojcbdd7trpp2ncg7ipa9vsfmqhtj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.andrefilus.aula2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
