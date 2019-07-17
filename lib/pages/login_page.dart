@@ -61,7 +61,7 @@ class _LoginPageState extends State<LoginPage> {
           ),
           Text(
             "Email",
-            style: TextStyle(fontSize: 20, color: Colors.white),
+            style: TextStyle(fontSize: 20, color: Colors.blue),
           ),
           TextField(
             controller: _tLogin,
@@ -72,7 +72,7 @@ class _LoginPageState extends State<LoginPage> {
           ),
           Text(
             "Senha",
-            style: TextStyle(fontSize: 20, color: Colors.white),
+            style: TextStyle(fontSize: 20, color: Colors.blue),
           ),
           TextField(
             controller: _tSenha,

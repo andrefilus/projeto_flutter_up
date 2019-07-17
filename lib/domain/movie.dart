@@ -6,6 +6,7 @@ class Movie {
   String overview;
 
   String get urlFoto {
+//    return "https://image.tmdb.org/t/p/w300/"+poster_path;
     return "https://image.tmdb.org/t/p/w300/"+poster_path;
   }
 
